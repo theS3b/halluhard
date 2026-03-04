@@ -299,6 +299,11 @@ MODEL_REGISTRY = {
         "reasoning_effort": "high",
         "websearch": True,
     },
+    "gpt-5.3-chat": {
+        "model": "gpt-5.3",
+        "reasoning_effort": None,
+        "websearch": False,
+    },
     # DeepSeek variants
     "deepseek-chat": {
         "model": "deepseek-chat",
