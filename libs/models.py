@@ -299,7 +299,7 @@ MODEL_REGISTRY = {
         "reasoning_effort": "high",
         "websearch": True,
     },
-    "gpt-5.3-chat": {
+    "gpt-5.3": {
         "model": "gpt-5.3-chat-latest",
         "reasoning_effort": None,
         "websearch": False,
