@@ -300,7 +300,7 @@ MODEL_REGISTRY = {
         "websearch": True,
     },
     "gpt-5.3-chat": {
-        "model": "gpt-5.3",
+        "model": "gpt-5.3-chat-latest",
         "reasoning_effort": None,
         "websearch": False,
     },
