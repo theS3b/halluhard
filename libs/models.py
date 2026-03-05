@@ -309,6 +309,16 @@ MODEL_REGISTRY = {
         "reasoning_effort": None,
         "websearch": True,
     },
+    "gpt-5.4-medium": {
+        "model": "gpt-5.4",
+        "reasoning_effort": "medium",
+        "websearch": False,
+    },
+    "gpt-5.4-medium-websearch": {
+        "model": "gpt-5.4",
+        "reasoning_effort": "medium",
+        "websearch": True,
+    },
     # DeepSeek variants
     "deepseek-chat": {
         "model": "deepseek-chat",
