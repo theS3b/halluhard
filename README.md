@@ -180,17 +180,4 @@ See [final_run.sh](final_run.sh) for the final launches used in the paper.
 
 For full transparency, we provide our data generation pipelines under `<task_name>/data_fetcher.py`. Readers are welcome to re-use this script to generate more questions for their own use. 
 
-## Citing this work
-If you find our code useful, please cite our work
-```
-@misc{fan2026halluhardhardmultiturnhallucination,
-      title={HalluHard: A Hard Multi-Turn Hallucination Benchmark}, 
-      author={Dongyang Fan and Sebastien Delsad and Nicolas Flammarion and Maksym Andriushchenko},
-      year={2026},
-      eprint={2602.01031},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2602.01031}, 
-}
-```
 
