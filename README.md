@@ -4,10 +4,6 @@
 
 A framework for evaluating hallucinations in multi-turn conversations across challenging domains.
 
-
-
-[Update: Feb 12, 2026] We’ve added the following models to our leaderboard: Kimi-K2.5-thinking (released Jan 29, 2026), GLM-5-thinking (released Feb 11, 2026), Grok-4-thinking, and Grok-4.1-thinking-fast.
-
 ## Preparation
 
 We use pixi to make sure our experiments are reproducible across all enviroments.
